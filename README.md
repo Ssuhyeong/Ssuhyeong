@@ -1,5 +1,5 @@
 <div align="center">
-<br><br><br>
+<br>
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
@@ -7,13 +7,13 @@
 
 <br>
 <br>
-<br>
 
 <!-- Ssuhyeong's profile -->
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngud124)](https://solved.ac/tngud124/)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Ssuhyeong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
 </a>
+
 <a href="https://github.com/Ssuhyeong/github-stats">
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
