@@ -1,9 +1,8 @@
 <div align="center">
 <br>
 
-<!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-### <div align="center">안녕하세요! 손수형입니다.  프론트엔드 개발자입니다. 👨‍💻</div>  
+### <div align="center">안녕하세요! 빠르게 적응하는 개발자 손수형입니다 👨‍💻</div>  
 
 <br>
 <br>
